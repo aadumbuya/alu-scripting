@@ -1,4 +1,6 @@
-mport requests
+#!/usr/bin/python3
+""""3-count.py"""
+import requests
 
 
 def count_words(subreddit, word_list, after="", words_count={}):
